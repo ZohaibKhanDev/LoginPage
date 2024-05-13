@@ -24,5 +24,5 @@ Let's chat about potential projects, job opportunities, or any other collaborati
 
 ## Screen Shots
 
-| ![Screenshot 1]() | ![Screenshot 2]() | ![Screenshot 3]() |
+| ![Screenshot 1](https://github.com/ZohaibKhanDev/LoginAuth/blob/master/assests/screenshots.txt/1.png) | ![Screenshot 2]() | ![Screenshot 3]() |
 | --- | --- | --- |
