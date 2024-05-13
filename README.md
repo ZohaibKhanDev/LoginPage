@@ -5,8 +5,8 @@
 
 
 ## 🚀 Key Features
--**User Interface (UI)**
--
+- **User Interface (UI)**
+- **Credentials Verification**
 -
 -
 -
