@@ -9,7 +9,7 @@
 - **Credentials Verification**
 - **Encryption**
 - **Session Management**
--
+- **Authentication Protocols**
 -
 -
 
