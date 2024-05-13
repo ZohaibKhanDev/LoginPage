@@ -8,7 +8,7 @@
 - **User Interface (UI)**
 - **Credentials Verification**
 - **Encryption**
--
+- **Session Management**
 -
 -
 -
