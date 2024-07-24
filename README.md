@@ -1,8 +1,5 @@
-
 # Login Page
 ## Overview
-
-
 
 ## 🚀 Key Features
 - **User Interface (UI)**
@@ -10,8 +7,6 @@
 - **Encryption**
 - **Session Management**
 - **Authentication Protocols**
--
--
 
 ## 🤝 Connect with Me
 Let's chat about potential projects, job opportunities, or any other collaboration! Feel free to connect with me through the following channels:
